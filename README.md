@@ -1,2 +1,2 @@
-# C/C++-Programming-Language
-C/C++ Projects 
+# C-Programming-Language
+C Projects 
